@@ -1,0 +1,23 @@
+{
+  "name": "now-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aratno/now-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aratno/now-intro/issues"
+  },
+  "homepage": "https://github.com/aratno/now-intro#readme"
+}
