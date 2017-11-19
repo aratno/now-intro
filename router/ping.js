@@ -5,6 +5,8 @@ Ping.match = ( path ) => {
 }
 
 Ping.reply = ( ctx ) => {
+  let ms = +new Date()
+  ctx.append('pong', ms)
   ctx.body = 'pong'
 }
 
